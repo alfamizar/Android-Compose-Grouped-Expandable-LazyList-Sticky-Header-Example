@@ -1,6 +1,6 @@
 @file:OptIn(ExperimentalFoundationApi::class)
 
-package com.privatecompany.wear.app.columnstickyheader
+package com.privatecompany.app.columnstickyheader
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

@@ -1,4 +1,4 @@
-package com.privatecompany.wear.app.columnstickyheader
+package com.privatecompany.app.columnstickyheader
 
 import org.junit.Test
 

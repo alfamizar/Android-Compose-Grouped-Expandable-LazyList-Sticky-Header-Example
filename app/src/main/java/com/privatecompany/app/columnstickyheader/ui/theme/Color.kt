@@ -1,4 +1,4 @@
-package com.privatecompany.wear.app.columnstickyheader.ui.theme
+package com.privatecompany.app.columnstickyheader.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

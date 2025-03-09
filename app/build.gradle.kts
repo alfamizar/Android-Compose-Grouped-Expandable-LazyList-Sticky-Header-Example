@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.privatecompany.wear.app.columnstickyheader"
+    namespace = "com.privatecompany.app.columnstickyheader"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.privatecompany.wear.app.columnstickyheader"
+        applicationId = "com.privatecompany.app.columnstickyheader"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
